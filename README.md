@@ -5,4 +5,4 @@ The mood still take 4 days to vanish but colonists can only be rebuffed one time
 
 ________
 
-*Again from a suggestion in the mod forum [here](https://ludeon.com/forums/index.php?topic=21733.msg236105#msg236105)*
+*Again from a suggestion in the mod forum [here](https://ludeon.com/forums/index.php?topic=21733.msg236105#msg236105) and also on Reddit and even in some LP on Youtube*
