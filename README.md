@@ -1,4 +1,4 @@
-# Less-Rebuff
+# Less Rebuff
 Tweaks several mood penalties relating to romance. All penalties can only stack once.
 
 * Failed romance attempt incurs -5 mood and lasts for 4 days.
