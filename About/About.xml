@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Less Rebuff</name>
+	<author>KapTaiN_KaVerN</author>
+	<url>https://github.com/kaptain-kavern/Less-Rebuff/releases/latest</url>
+	<targetVersion>0.15.0</targetVersion>
+	<description>Reduces the number of "Rebuffed by *NAME*" mood debuff stacks.</description>
+</ModMetaData>
