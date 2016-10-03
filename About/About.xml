@@ -1,8 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
 	<name>Less Rebuff</name>
-	<author>KapTaiN_KaVerN</author>
 	<url>https://github.com/kaptain-kavern/Less-Rebuff/releases/latest</url>
 	<targetVersion>0.15.0</targetVersion>
-	<description>Reduces the number of "Rebuffed by *NAME*" mood debuff stacks.</description>
+	<description>Tweaks several mood penalties relating to romance. All penalties can only stack once.
+
+* Failed romance attempt incurs -5 mood and lasts for 4 days.
+* Break-up incurs -15 mood and lasts for 25 days.
+* Cheating incurs -15 mood and lasts for 25 days.
+* Divorce incurs -20 mood and lasts for 30 days.
+* Rejected marriage incurs -18 mood and lasts for 30 days.</description>
 </ModMetaData>
