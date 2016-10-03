@@ -1,8 +1,12 @@
 # Less Rebuff
-Just reduce the stack number of "Rebuffed by X" mood.
+Tweaks several mood penalties relating to romance. All penalties can only stack once.
 
-The mood still take 4 days to vanish but colonists can only be rebuffed one time by person.
+* Failed romance attempt incurs -5 mood and lasts for 4 days.
+* Break-up incurs -15 mood and lasts for 25 days.
+* Cheating incurs -15 mood and lasts for 25 days.
+* Divorce incurs -20 mood and lasts for 30 days.
+* Rejected marriage incurs -18 mood and lasts for 30 days.
 
-________
+________________________________________________________
 
-*Again from a suggestion in the mod forum [here](https://ludeon.com/forums/index.php?topic=21733.msg236105#msg236105) and also on Reddit and even in some LP on Youtube*
+*Mod suggested in the RimWorld Mods forum [here](https://ludeon.com/forums/index.php?topic=21733.msg236105) and also on Reddit and even in some LP on Youtube*
