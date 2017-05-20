@@ -5,13 +5,26 @@
 
 	<ThoughtDef>
 		<defName>RebuffedMyRomanceAttemptMood</defName>
-		<durationDays>4.0</durationDays>
+		<durationDays>3.0</durationDays>
 		<stackLimit>1</stackLimit>
 		<stages>
 			<li>
 				<label>rebuffed by {0}</label>
 				<description>I attempted to create a romance, but I got the cold shoulder. Feels bad man.</description>
 				<baseMoodEffect>-5</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+
+	<ThoughtDef>
+		<defName>FailedRomanceAttemptOnMeLowOpinionMood</defName>
+		<durationDays>3.0</durationDays>
+		<stackLimit>1</stackLimit>
+		<stages>
+			<li>
+				<label>had to rebuff {0}</label>
+				<description>Someone I don't like tried to romance me.</description>
+				<baseMoodEffect>-3</baseMoodEffect>
 			</li>
 		</stages>
 	</ThoughtDef>
@@ -41,7 +54,7 @@
 			<li>
 				<label>cheated on by {0}</label>
 				<description>How could someone cheat on me!</description>
-				<baseMoodEffect>-15</baseMoodEffect>
+				<baseMoodEffect>-20</baseMoodEffect>
 			</li>
 		</stages>
 	</ThoughtDef>
@@ -65,7 +78,7 @@
 
 	<ThoughtDef>
 		<defName>RejectedMyProposalMood</defName>
-		<durationDays>30.0</durationDays>
+		<durationDays>25.0</durationDays>
 		<stackLimit>1</stackLimit>
 		<stages>
 			<li>
@@ -75,5 +88,5 @@
 			</li>
 		</stages>
 	</ThoughtDef>
-	
+
 </ThoughtDefs>
