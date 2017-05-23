@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	<Operation Class="PatchOperationReplace">
+		<xpath>//ThoughtDef[defName = "RebuffedMyRomanceAttemptMood"]/stackLimit</xpath>
+		<value>
+			<stackLimit>1</stackLimit>
+		</value>
+	</Operation> 
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>//ThoughtDef[defName = "FailedRomanceAttemptOnMeLowOpinionMood"]/stackLimit</xpath>
+		<value>
+			<stackLimit>1</stackLimit>
+		</value>
+	</Operation> 
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>//ThoughtDef[defName = "BrokeUpWithMeMood"]/stackLimit</xpath>
+		<value>
+			<stackLimit>1</stackLimit>
+		</value>
+	</Operation> 
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>//ThoughtDef[defName = "CheatedOnMeMood"]/stackLimit</xpath>
+		<value>
+			<stackLimit>1</stackLimit>
+		</value>
+	</Operation> 
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>//ThoughtDef[defName = "DivorcedMeMood"]/stackLimit</xpath>
+		<value>
+			<stackLimit>1</stackLimit>
+		</value>
+	</Operation> 
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>//ThoughtDef[defName = "RejectedMyProposalMood"]/stackLimit</xpath>
+		<value>
+			<stackLimit>1</stackLimit>
+		</value>
+	</Operation> 
+</Patch>
