@@ -1,3 +1,4 @@
+[![Version](https://img.shields.io/badge/Rimworld-A17-violet.svg)](http://rimworldgame.com/)
 # Less Rebuff
 Tweaks several mood penalties relating to romance. All penalties can only stack once.
 
