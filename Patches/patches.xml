@@ -2,42 +2,42 @@
 <Patch>
 
 	<Operation Class="PatchOperationReplace">
-		<xpath>/ThoughtDefs/ThoughtDef[defName = "RebuffedMyRomanceAttemptMood"]/stackLimit</xpath>
+		<xpath>/Defs/ThoughtDef[defName = "RebuffedMyRomanceAttemptMood"]/stackLimit</xpath>
 		<value>
 			<stackLimit>1</stackLimit>
 		</value>
 	</Operation>
 
 	<Operation Class="PatchOperationReplace">
-		<xpath>/ThoughtDefs/ThoughtDef[defName = "FailedRomanceAttemptOnMeLowOpinionMood"]/stackLimit</xpath>
+		<xpath>/Defs/ThoughtDef[defName = "FailedRomanceAttemptOnMeLowOpinionMood"]/stackLimit</xpath>
 		<value>
 			<stackLimit>1</stackLimit>
 		</value>
 	</Operation>
 
 	<Operation Class="PatchOperationReplace">
-		<xpath>/ThoughtDefs/ThoughtDef[defName = "BrokeUpWithMeMood"]/stackLimit</xpath>
+		<xpath>/Defs/ThoughtDef[defName = "BrokeUpWithMeMood"]/stackLimit</xpath>
 		<value>
 			<stackLimit>1</stackLimit>
 		</value>
 	</Operation>
 
 	<Operation Class="PatchOperationReplace">
-		<xpath>/ThoughtDefs/ThoughtDef[defName = "CheatedOnMeMood"]/stackLimit</xpath>
+		<xpath>/Defs/ThoughtDef[defName = "CheatedOnMeMood"]/stackLimit</xpath>
 		<value>
 			<stackLimit>1</stackLimit>
 		</value>
 	</Operation>
 
 	<Operation Class="PatchOperationReplace">
-		<xpath>/ThoughtDefs/ThoughtDef[defName = "DivorcedMeMood"]/stackLimit</xpath>
+		<xpath>/Defs/ThoughtDef[defName = "DivorcedMeMood"]/stackLimit</xpath>
 		<value>
 			<stackLimit>1</stackLimit>
 		</value>
 	</Operation>
 
 	<Operation Class="PatchOperationReplace">
-		<xpath>/ThoughtDefs/ThoughtDef[defName = "RejectedMyProposalMood"]/stackLimit</xpath>
+		<xpath>/Defs/ThoughtDef[defName = "RejectedMyProposalMood"]/stackLimit</xpath>
 		<value>
 			<stackLimit>1</stackLimit>
 		</value>
