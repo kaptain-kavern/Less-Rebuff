@@ -1,4 +1,4 @@
-[![Version](https://img.shields.io/badge/Rimworld-A17-violet.svg)](http://rimworldgame.com/)
+[![Version](https://img.shields.io/badge/Rimworld-A18-blue.svg)](http://rimworldgame.com/)
 # Less Rebuff
 Tweaks several mood penalties relating to romance. Reduces max penalty stack to x1.
 
